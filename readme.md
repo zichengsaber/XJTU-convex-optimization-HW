@@ -5,7 +5,11 @@
 > 邮箱:zzczzc.1221@gmail.com
 
 ## 展示
-![](./img/2d.png)
+2D-plot
+
+<img src="./img/2d.png" style="zoom:50%">
+
+3D-plot
 
 ![](./img/3d.gif)
 ## 文件结构
