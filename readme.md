@@ -5,9 +5,7 @@
 > 邮箱:zzczzc.1221@gmail.com
 
 ## 展示
-2D-plot
 
-<img src="./img/2d.png" style="zoom:50%">
 
 3D-plot
 
