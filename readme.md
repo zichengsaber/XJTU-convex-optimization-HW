@@ -1,9 +1,13 @@
 # Introduction
 
-> 计算机85张子诚
+> Zicheng Zhang
 >
 > 邮箱:zzczzc.1221@gmail.com
 
+## 展示
+![](./img/2d.png)
+
+![](./img/3d.gif)
 ## 文件结构
 
 * `.ipynb_checkpoints` 配置文件
